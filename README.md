@@ -20,7 +20,7 @@ Welcome to the C++ Exercises Repository! This repository contains solutions to t
 
 In this exercise, we demonstrate the use of pointers in C++. The function `twice` takes an integer pointer as an argument and doubles the value it points to. The main function initializes an integer, passes its address to the `twice` function, and then prints the modified value.
 
-Exercise #2: Employee Class
+## Exercise #2: Employee Class
 Description
 This exercise involves creating a class to represent an Employee, with member functions to get and set the employee's first name and monthly salary. Additionally, it includes a main function that creates instances of the Employee class, manipulates their salaries, and prints the new yearly salaries.
 
